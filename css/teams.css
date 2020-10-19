@@ -6,7 +6,7 @@ body {
 }
 
 .first-page {
-  background-image: url("/img/back.jpg");
+  background-image: url("https://cdn.cjr.org/wp-content/uploads/2019/07/AdobeStock_100000042-e1563305717660-1300x500.jpeg");
   padding: 12% 0;
   font-weight: bolder;
 }
